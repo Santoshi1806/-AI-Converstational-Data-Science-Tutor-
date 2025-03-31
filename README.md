@@ -10,7 +10,6 @@ This web application is powered by Google’s Gemini 2.0 model, offering a perso
 🌐 Interactive Interface – Built with Streamlit for an intuitive chat-based experience.
 🧠 Generative AI-Powered – Uses Google Gemini 2.0 for accurate and insightful responses.
 
-🔗 GitHub Repository: https://github.com/Santoshi1806/AI-Converstational-Data-Science-Tutor
 🔗 Live Streamlit App: https://big-moles-dance.loca.lt/
 
 This project has been an incredible learning journey, where I explored Generative AI, LangChain, and AI Model Integration. I’m grateful to Kanav Bansal Sir for his invaluable mentorship and guidance throughout my internship! 

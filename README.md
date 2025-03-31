@@ -43,7 +43,7 @@ streamlit run app.py
 ## 🌐 **Live Demo:**  
 🔗 **GitHub Repository**: [AI Conversational Data Science Tutor](https://github.com/Santoshi1806/AI-Converstational-Data-Science-Tutor)  
 
-🔗 **Deployed Streamlit App**: *(Add the Streamlit deployment link if available)*  
+🔗 **Deployed Streamlit App**: https://big-moles-dance.loca.lt/
 
 ---
 

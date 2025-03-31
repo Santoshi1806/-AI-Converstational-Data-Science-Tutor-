@@ -49,8 +49,4 @@ streamlit run app.py
 
 This project was an **amazing learning experience**, helping me explore **Generative AI, LangChain, and AI Model Integration**. Let’s connect and discuss AI and Data Science! 🚀  
 
-#GenerativeAI #DataScience #Streamlit #LangChain #ArtificialIntelligence #GoogleAI #AIApplications #TechInnovation #MachineLearning #Chatbot #AIProjects  
-
----
-
-Let me know if you need any refinements! 🚀🔥
+#GenerativeAI #DataScience #Streamlit #LangChain #ArtificialIntelligence #GoogleAI #AIApplications #TechInnovation #MachineLearning #Chatbot #AIProjects🚀🔥
